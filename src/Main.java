@@ -1,4 +1,6 @@
-public class Game {
+package Game;
+
+public class Main {
 
     // global definierte Konstanten für die beiden Dimensionen
     final static int DIM1 = 12;
